@@ -321,7 +321,7 @@ Projects using this library
   
 * `Celestia <https://celestia.space/>`_: real-time 3D visualization of space
 
-* `Ceph <https://ceph.com/>`_: a scalable distributed storage system
+* `Stone <https://stone.com/>`_: a scalable distributed storage system
 
 * `ccache <https://ccache.dev/>`_: a compiler cache
 
